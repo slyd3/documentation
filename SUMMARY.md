@@ -8,4 +8,4 @@
 
 ## SimpleCTRL
 
-* [⌨ What is SimpleCTRL?](simplectrl/what-is-simplectrl.md)
+* [🚔 What is SimpleCTRL?](simplectrl/what-is-simplectrl.md)
