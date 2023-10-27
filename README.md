@@ -6,6 +6,12 @@ layout: landing
 
 ## SimpleHUD
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/image_2023-04-28_174935121.png.a339513be333463bfae5c94287c66183.png" alt="" width="375"><figcaption><p>SimpleCTRL Logo</p></figcaption></figure>
+
+</div>
+
 {% embed url="https://www.lcpdfr.com/downloads/gta5mods/scripts/39944-simplehud/" %}
 
 ## SimpleCTRL
