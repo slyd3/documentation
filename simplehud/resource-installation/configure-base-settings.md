@@ -1,2 +1,1 @@
-# ♏ Configure Base Settings
-
+# ⚙ Configure Base Settings
