@@ -4,6 +4,4 @@ layout: landing
 
 # Welcome to Venoxity
 
-## SimpleHUD:
-
-## SimpleCTRL:
+## Simple<mark style="color:orange;">CTRL</mark>:
