@@ -6,6 +6,8 @@ layout: landing
 
 ## SimpleHUD
 
+{% embed url="https://www.lcpdfr.com/downloads/gta5mods/scripts/39944-simplehud/" %}
+
 ## SimpleCTRL
 
 <div align="left">
