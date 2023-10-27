@@ -5,8 +5,7 @@
 ## SimpleHUD
 
 * [🗺 What is SimpleHUD?](simplehud/what-is-simplehud.md)
-* [📃 Resource Installation](simplehud/resource-installation/README.md)
-  * [Page 1](simplehud/resource-installation/page-1.md)
+* [📃 Resource Installation](simplehud/resource-installation.md)
 
 ## SimpleCTRL
 

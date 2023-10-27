@@ -1,4 +1,4 @@
-# ⌨ What is SimpleCTRL?
+# 🚔 What is SimpleCTRL?
 
 ### Introduction
 

@@ -1,4 +1,4 @@
-# 🗺️ What is SimpleHUD?
+# 🗺 What is SimpleHUD?
 
 ### Introduction
 
@@ -11,7 +11,7 @@ SimpleHUD is script modification for your game displaying player's current locat
 * Time
 * County
 * Cardinal Direction
-* Customize Menu 
+* Customize Menu
 * Custom INI
 * Road Name
 * Integration with Future Mods 👀
