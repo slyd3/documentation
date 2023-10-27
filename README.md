@@ -26,4 +26,8 @@ layout: landing
 
 </div>
 
+{% content-ref url="simplectrl/what-is-simplectrl.md" %}
+[simplectrl/what-is-simplectrl.md](<simplectrl/what-is-simplectrl.md>)
+{% endcontent-ref %}
+
 {% embed url="https://www.lcpdfr.com/downloads/gta5mods/scripts/43666-simplectrl/" %}
