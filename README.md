@@ -12,8 +12,8 @@ layout: landing
 
 </div>
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="simplehud/what-is-simplehud.md" %}
+[simplehud/what-is-simplehud.md](<simplehud/what-is-simplehud.md>)
 {% endcontent-ref %}
 
 {% embed url="https://www.lcpdfr.com/downloads/gta5mods/scripts/39944-simplehud/" %}
