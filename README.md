@@ -8,7 +8,7 @@ layout: landing
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image_2023-04-28_174935121.png.a339513be333463bfae5c94287c66183.png" alt="" width="375"><figcaption><p>SimpleCTRL Logo</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image_2023-04-28_174935121.png.a339513be333463bfae5c94287c66183.png" alt="" width="375"><figcaption><p>SimpleHUD Logo</p></figcaption></figure>
 
 </div>
 
