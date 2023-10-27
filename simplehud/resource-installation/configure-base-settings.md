@@ -1,3 +1,3 @@
-# ⚙ Configure Base Settings
+# Configure Base Settings
 
 **Coming Soon**
