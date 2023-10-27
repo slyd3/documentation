@@ -2,7 +2,7 @@
 
 ### Introduction
 
-**Coming Soon**
+SimpleHUD is script modification for your game displaying player's current location, as well as a compass and the time.
 
 ### Features
 
