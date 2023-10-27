@@ -6,7 +6,7 @@
 
 * [🗺 What is SimpleHUD?](simplehud/what-is-simplehud.md)
 * [📃 Resource Installation](simplehud/resource-installation.md)
-  * [♏ Configure Base Settings](simplehud/resource-installation/configure-base-settings.md)
+  * [© Configure Base Settings](simplehud/resource-installation/configure-base-settings.md)
 
 ## SimpleCTRL
 
