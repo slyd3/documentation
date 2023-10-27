@@ -4,4 +4,4 @@
 
 ## SimpleHUD
 
-* [What is SimpleHUD?](simplehud/what-is-simplehud.md)
+* [🗺 What is SimpleHUD?](simplehud/what-is-simplehud.md)
