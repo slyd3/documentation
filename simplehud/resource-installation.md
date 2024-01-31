@@ -1,7 +1,8 @@
 # 📃 Resource Installation
 
-> [!NOTE]
-> Current Stable release is 1.1.7.
+{% hint style="info" %}
+Current Stable release is 1.1.7.
+{% endhint %}
 
 ## Required dependencies for SimpleHUD
 
