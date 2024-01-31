@@ -2,8 +2,9 @@
 
 ## Configuring through the ini:
 
-> [!TIP]
-> You can only edit the following items listed below.
+{% hint style="info" %}
+You can only edit the following items listed below.
+{% endhint %}
 
 ## Limit settings:
 AnnounceSpeedLimitWarning=`boolean`<br>
