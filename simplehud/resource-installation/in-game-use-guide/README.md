@@ -1,7 +1,8 @@
 # 🎮 In Game Use Guide
 
-> [!TIP]
-> You can edit the keybinds in the ini file or directly in-game.
+{% hint style="info" %}
+You can edit the keybinds in the ini file or directly in-game.
+{% endhint %}
 
 # Using the menu in-game
 
